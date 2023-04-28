@@ -53,6 +53,7 @@
         <title>Section title</title>
         <p>Hello</p>
           <m>f(x)=2x+1</m>
+          <me>\sum_{k=1}^10 f(x)\Delta x</me>
       </section>
 
     </chapter>
